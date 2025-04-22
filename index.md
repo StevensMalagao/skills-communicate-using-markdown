@@ -6,3 +6,6 @@
 ``` python
 print("are you ready?")
 ```
+- [ ] Hangar 18
+- [x] A place for my head
+- [ ] Thanks for nothing
